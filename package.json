@@ -1,0 +1,26 @@
+{
+  "name": "trash-username-generator",
+  "version": "1.0.0",
+  "description": "A trash tier username generator",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrathofrathma/trash-username-generator.git"
+  },
+  "keywords": [
+    "trash",
+    "username",
+    "generator"
+  ],
+  "author": "rathma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrathofrathma/trash-username-generator/issues"
+  },
+  "homepage": "https://github.com/wrathofrathma/trash-username-generator#readme"
+}
